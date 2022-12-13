@@ -2,6 +2,9 @@
 // bool isBadVersion(int version);
 using namespace std;
 
+bool isBadVersion(int m) {return false;}
+
+
 class Solution {
 public:
     int firstBadVersion(int n) {
