@@ -8,3 +8,6 @@ Code will mostly be in C++ because I want to improve my C++ coding at the same t
 
 Let's code and have fun.:tent::rocket:
 
+**updates 1/3/2023**
+
+From week 3, code repo is divided into "java" and "c++" to better manage the code files.

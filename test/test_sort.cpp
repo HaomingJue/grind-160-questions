@@ -12,7 +12,7 @@ template<typename T> void print_vector(T & vec) {
 
 int main() {
     vector<int> vec = {3, 4, 1, 2, 5};
-    auto comp = [](int &a, int &b) {return a < b;};
+    auto comp = [](int &a, int &b) {return a > b;};
     sort(vec.begin(), vec.end(), comp);
     print_vector(vec);
     return 0;
